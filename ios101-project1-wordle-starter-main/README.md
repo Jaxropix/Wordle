@@ -23,11 +23,10 @@ The following **additional** features are implemented:
 
 - [ ] List anything else that you can get done to improve the app functionality!
 
-## Video Walkthrough
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
 
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
+https://github.com/Jaxropix/Wordle/assets/142180880/fb6bf713-acc6-48f8-a0b0-dec1900f020f
+
 
 
 ## Notes
