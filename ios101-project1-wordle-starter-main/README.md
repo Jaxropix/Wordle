@@ -1,10 +1,10 @@
-# Project 1 - *Name of App Here*
+# Project 1 - Wordle
 
-Submitted by: **Your Name Here**
+Submitted by: Sue Wu
 
-**Name of your app** is an app that ... [TODO] 
+Wordle is an app that can play an app verison of the popular game Wordle 
 
-Time spent: **X** hours spent in total
+Time spent: 3 hours spent in total
 
 ## Required Features
 
